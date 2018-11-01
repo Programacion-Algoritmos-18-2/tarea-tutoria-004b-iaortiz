@@ -1,5 +1,6 @@
 #Creación de clase persona
 class Persona(object):
+    #Método para definir atributos
     def __init__(self):
         self.nombres = ""
         self.edad = 0
